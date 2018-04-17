@@ -1,0 +1,808 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"Prop",
+				"propTypes"
+			],
+			[
+				"zip",
+				"ZipForm"
+			],
+			[
+				"weath",
+				"weatherData"
+			],
+			[
+				"wa",
+				"weatherData"
+			],
+			[
+				"wea",
+				"weatherData"
+			],
+			[
+				"Wea",
+				"WeatherListItem"
+			],
+			[
+				"We",
+				"WeatherListItem"
+			],
+			[
+				"submi",
+				"submitZipCode"
+			],
+			[
+				"on",
+				"onFormSubmit"
+			],
+			[
+				"input",
+				"inputUpdated"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"React",
+				"ReactDOM"
+			],
+			[
+				"HTML",
+				"HTMLCourses"
+			],
+			[
+				"Course",
+				"CourseContainer"
+			],
+			[
+				"S",
+				"Switch"
+			],
+			[
+				"webpack",
+				"webpack-dev-server"
+			],
+			[
+				"tim",
+				"timeOfDay"
+			],
+			[
+				"post",
+				"postBody"
+			],
+			[
+				"file",
+				"fileContents"
+			],
+			[
+				"temp",
+				"templateName"
+			],
+			[
+				"home",
+				"homeRoute"
+			],
+			[
+				"stat",
+				"statusCodeError"
+			],
+			[
+				"status",
+				"statusCode"
+			],
+			[
+				"qu",
+				"queryError"
+			],
+			[
+				"print",
+				"printError"
+			],
+			[
+				"sta",
+				"statusCodeError"
+			],
+			[
+				"get",
+				"getProfile"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"remove",
+				"removeName"
+			],
+			[
+				"append",
+				"appendToLI"
+			],
+			[
+				"fil",
+				"filterCheckbox"
+			],
+			[
+				"m",
+				"mainDiv"
+			],
+			[
+				"filte",
+				"filterLabel"
+			],
+			[
+				"filter",
+				"filterCheckbox"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"errp",
+				"errorNotPurple"
+			],
+			[
+				"play",
+				"playSound"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"max",
+				"maxPosition"
+			],
+			[
+				"iem",
+				"itemsWidth"
+			],
+			[
+				"conten",
+				"contentWidth"
+			],
+			[
+				"loa",
+				"loadPerson"
+			],
+			[
+				"scro",
+				"scrollRight"
+			],
+			[
+				"inpu",
+				"inputArr"
+			],
+			[
+				"log",
+				"logTrue"
+			],
+			[
+				"make",
+				"makeStopwatch"
+			],
+			[
+				"funcs",
+				"funcStorer"
+			],
+			[
+				"b",
+				"babyBox"
+			],
+			[
+				"nois",
+				"noiseArray"
+			],
+			[
+				"noi",
+				"noiseArray"
+			],
+			[
+				"phone_",
+				"phone_total"
+			],
+			[
+				"acc",
+				"accessory_counter"
+			],
+			[
+				"th",
+				"threshold"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/michal/Sites/eyalandmichal/index.html",
+			"settings":
+			{
+				"buffer_size": 22215,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/michal/Sites/eyalandmichal/css/style.css",
+			"settings":
+			{
+				"buffer_size": 11521,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "prettier",
+		"selected_items":
+		[
+			[
+				"prettier",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimelinter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"prette",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"prettir",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"syntax: java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pretti",
+				"JsPrettier: Format Code"
+			],
+			[
+				"set syntax javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pre",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packag",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package control use",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"jspre",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"colorsublime",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 257.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/michal/Sites/eyalandmichal",
+		"/Users/michal/Sites/eyalandmichal/css"
+	],
+	"file_history":
+	[
+		"/Users/michal/Sites/eyalandmichal/css/style.css",
+		"/Users/michal/Sites/eyalandmichal/css/countdown.css",
+		"/Users/michal/Sites/eyalandmichal/README.md",
+		"/Users/michal/Sites/eyalandmichal/index.html",
+		"/Users/michal/Sites/eyalandmichal/js/jquery.countdown.min.js",
+		"/Users/michal/Sites/eyalandmichal/js/countdown.js",
+		"/Users/michal/Sites/eyalandmichal/js/settings.js",
+		"/Users/michal/Sites/pomodoro/src/App.css",
+		"/Users/michal/Sites/pomodoro/src/App.js",
+		"/Users/michal/Sites/pomodoro/public/index.html",
+		"/Users/michal/Sites/pomodoro/src/index.js",
+		"/Users/michal/Sites/final-forum/src/index.js",
+		"/Users/michal/Sites/final-forum/src/App.css",
+		"/Users/michal/Sites/final-forum/src/App.js",
+		"/Users/michal/Sites/portfolio/index.html",
+		"/Users/michal/Sites/personal-site/styles.css",
+		"/Users/michal/Sites/personal-site/index.html",
+		"/index.html",
+		"/Users/michal/Sites/avatar-maker/public/index.html",
+		"/Users/michal/Sites/avatar-maker/package.json",
+		"/Users/michal/Sites/avatar-maker/Components/TemplateList.js",
+		"/Users/michal/Sites/avatar-maker/src/App.css",
+		"/Users/michal/Sites/avatar-maker/src/App.js",
+		"/Users/michal/Sites/avatar-maker/Components/TemplateListItem.js",
+		"/Users/michal/Sites/avatar-maker/Components/FabricCanvas.js",
+		"/Users/michal/Sites/portfolio/style.css",
+		"/Users/michal/Library/Application Support/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+		"/Users/michal/Sites/tooling/index.html",
+		"/Users/michal/Sites/tooling/emmet-test.html",
+		"/Users/michal/Sites/react-weather-app/src/components/App.js",
+		"/Users/michal/Sites/react-weather-app/src/components/WeatherListItem.js",
+		"/Users/michal/Sites/react-weather-app/src/components/WeatherList.js",
+		"/Users/michal/Sites/react-weather-app/src/styles.scss",
+		"/Users/michal/Sites/react-weather-app/src/components/CurrentDay.js",
+		"/Users/michal/Sites/react-weather-app/src/app.js",
+		"/Users/michal/Sites/react-weather-app/src/components/ZipForm.js",
+		"/Users/michal/Sites/react-router-resume/.eslintrc.js",
+		"/Users/michal/Sites/react-router-resume/package.json",
+		"/Users/michal/Sites/react-router/src/components/Header.js",
+		"/Users/michal/Sites/react-router/src/components/Home.js",
+		"/Users/michal/Sites/react-router/src/components/Featured.js",
+		"/Users/michal/Sites/react-router/src/components/App.js",
+		"/Users/michal/Sites/react-router/src/components/Courses.js",
+		"/Users/michal/Library/Application Support/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/Users/michal/Sites/react-router/src/components/courses/Course.js",
+		"/Users/michal/Sites/react-router/src/components/courses/CourseContainer.js",
+		"/Users/michal/Sites/react-router/src/components/About.js",
+		"/Users/michal/Sites/complete-intro-to-react/js/Search.jsx",
+		"/Users/michal/Sites/complete-intro-to-react/LICENSE.md",
+		"/Users/michal/Sites/complete-intro-to-react/js/ClientApp.jsx",
+		"/Users/michal/Sites/complete-intro-to-react/js/Landing.jsx",
+		"/Users/michal/Sites/complete-intro-to-react/package.json",
+		"/Users/michal/Sites/complete-intro-to-react/webpack.config.js",
+		"/Users/michal/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/michal/Sites/complete-intro-to-react/.eslintrc.json",
+		"/Users/michal/Sites/complete-intro-to-react/index.html",
+		"/Users/michal/Sites/complete-intro-to-react/.babelrc",
+		"/Users/michal/Sites/complete-intro-to-react/.eslintignore",
+		"/Users/michal/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/michal/Sites/complete-intro-to-react/.editorconfig",
+		"/Users/michal/Sites/complete-intro-to-react/node_modules/jest-serializer-enzyme/package.json",
+		"/complete-react-intro",
+		"/Users/michal/My documents/coding/rsvp/version01/app.js",
+		"/Users/michal/My documents/coding/react/search-app/src/App.js",
+		"/Users/michal/My documents/JS/es6/working files/destructuring-nested-objects.js",
+		"/Users/michal/My documents/JS/es6/working files/destructuring-default-function.js",
+		"/Users/michal/My documents/JS/es6/working files/destructuring-array.js",
+		"/Users/michal/My documents/JS/es6/working files/destructuring-object.js",
+		"/Users/michal/My documents/JS/es6/2-The-Cooler-Parts-of-ES2015/video-4/start/destructuring-object.js",
+		"/Users/michal/My documents/JS/es6/2-The-Cooler-Parts-of-ES2015/video-4/start/destructuring-nested-objects.js",
+		"/Users/michal/My documents/JS/es6/2-The-Cooler-Parts-of-ES2015/video-4/start/destructuring-default-function.js",
+		"/Users/michal/My documents/JS/es6/2-The-Cooler-Parts-of-ES2015/video-4/start/destructuring-array.js",
+		"/Users/michal/My documents/JS/es6/working files/spread-operator-1.js",
+		"/Users/michal/My documents/JS/es6/working files/rest-parameters.js",
+		"/Users/michal/My documents/JS/es6/working files/arrow-keys.js",
+		"/Users/michal/My documents/JS/js modules/index.html",
+		"/Users/michal/My documents/JS/js modules/patterns.js",
+		"/Users/michal/My documents/mongo/treehouse-mongo-basics/seed.js",
+		"/Users/michal/My documents/node/dynamicSite/working_files/router.js",
+		"/Users/michal/My documents/node/dynamicSite/working_files/renderer.js",
+		"/Users/michal/My documents/node/dynamicSite/working_files/views/search.html",
+		"/Users/michal/My documents/node/dynamicSite/working_files/views/header.html",
+		"/Users/michal/My documents/node/dynamicSite/working_files/views/footer.html",
+		"/Users/michal/My documents/node/dynamicSite/working_files/views/error.html",
+		"/Users/michal/My documents/node/dynamicSite/working_files/views/profile.html",
+		"/Users/michal/My documents/node/dynamicSite/working_files/views/renderer.js",
+		"/Users/michal/My documents/node/dynamicSite/working_files/designs/index.html",
+		"/Users/michal/My documents/node/dynamicSite/working_files/designs/profile.html",
+		"/Users/michal/My documents/node/dynamicSite/working_files/app.js",
+		"/Users/michal/My documents/node/dynamicSite/working_files/profile.js",
+		"/Users/michal/My documents/node/dynamicSite/working_files/example_profile.js",
+		"/Users/michal/My documents/node/dynamicSite/working_files/designs/error.html",
+		"/Users/michal/My documents/node/dynamicSite/working_files/designs/footer.html",
+		"/Users/michal/My documents/node/weather notifier/weather.js",
+		"/Users/michal/My documents/node/weather notifier/app.js",
+		"/Users/michal/My documents/node/weather notifier/api.json",
+		"/Users/michal/My documents/node/weather notifier/files/weather.js",
+		"/Users/michal/My documents/node/weather notifier/files/app.js",
+		"/Users/michal/My documents/node/Node-Basics-2017/profile.js",
+		"/Users/michal/My documents/node/Node-Basics-2017/app.js",
+		"/Users/michal/My documents/node/hellonode.js",
+		"/Users/michal/Downloads/ReactBasicsProject (1)/app.jsx",
+		"/Users/michal/My documents/react/basic_app/src/App.js",
+		"/Users/michal/My documents/react/ReactBasicsProject/app.jsx",
+		"/Users/michal/My documents/rsvp/version01/css/style.css",
+		"/Users/michal/My documents/rsvp/version01/index.html",
+		"/Users/michal/My documents/rsvp/version01/app.js",
+		"/Users/michal/My documents/learning/treehouse js/3-making-changes-to-the-DOM/vid-1-text-content-and-inner-html/start/index.html",
+		"/Users/michal/My documents/learning/treehouse js/3-making-changes-to-the-DOM/vid-1-text-content-and-inner-html/start/css/style.css",
+		"/Users/michal/My documents/learning/treehouse js/3-making-changes-to-the-DOM/vid-1-text-content-and-inner-html/start/app.js",
+		"/Users/michal/My documents/learning/treehouse js/1-the-browser-environment/vid-2-thinking-globally/css/style.css",
+		"/Users/michal/My documents/learning/JavaScript30/02 - JS and CSS Clock/index-practice.html",
+		"/Users/michal/My documents/learning/JavaScript30/01 - JavaScript Drum Kit/index-Practice.html",
+		"/Users/michal/My documents/learning/JavaScript30/01 - JavaScript Drum Kit/index-practice.html",
+		"/Users/michal/My documents/learning/JavaScript30/01 - JavaScript Drum Kit/style.css",
+		"/Users/michal/My documents/learning/JavaScript30/01 - JavaScript Drum Kit/index-Workingfile.html",
+		"/Users/michal/My documents/Cloudinary/cloudinary-image-upload/views/index.html",
+		"/Users/michal/My documents/Cloudinary/cloudinary-image-upload/public/scripts/app.js",
+		"/Users/michal/My documents/portfolio/Version 01/acecv/HTML/css/layout.css",
+		"/Users/michal/My documents/portfolio/acecv/HTML/js/components/progress-bar.js",
+		"/Users/michal/My documents/portfolio/acecv/HTML/js/components/progress-bar.min.js",
+		"/index.js",
+		"/Users/michal/Downloads/index.html",
+		"/Users/michal/Documents/learning/learningReact/react-checklist/README.md",
+		"/Users/michal/Documents/learning/learningReact/ticTacToe/style.css",
+		"/Users/michal/Documents/learning/learningReact/ticTacToe/index.html",
+		"/Users/michal/Documents/learning/learningReact/ticTacToe/index.js",
+		"/Users/michal/Documents/learning/frontend masters/jsorg/js/app.js"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"/Users/michal/Sites/eyalandmichal",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col-sm-4",
+			"h1",
+			"logo",
+			"font",
+			"logo.png",
+			"text-shadow",
+			"2x.png",
+			"thumbnails",
+			"fullscreen",
+			"navbar",
+			"strom",
+			"logo.png",
+			"strom",
+			"katy",
+			"mobile",
+			"mobilr",
+			"intro",
+			"stromicon.jpg",
+			"stromicon.",
+			"katy.",
+			"1jAwLSD9xWovAkxn",
+			"markerpic",
+			"timezone",
+			"countdown",
+			"15",
+			"5",
+			"2014",
+			"16",
+			"script",
+			"count",
+			"test",
+			"16",
+			"countdown",
+			"16"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/michal/Sites/eyalandmichal/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15198,
+								15198
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 7953.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/michal/Sites/eyalandmichal/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6572,
+								6572
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7760.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 135.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "eyalandmichal.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"jspackag",
+				"node_modules/jest-serializer-enzyme/package.json"
+			],
+			[
+				"phase",
+				"components/catalog/PhaseCard/PhaseCard.js"
+			],
+			[
+				"feat",
+				"components/FeatureList/FeatureList.scss"
+			],
+			[
+				"featu",
+				"components/FeatureList/FeatureList.js"
+			],
+			[
+				"feature",
+				"components/FeatureList/FeatureList.js"
+			],
+			[
+				"missionrunf",
+				"components/mission/MissionRunFeedback/MissionRunFeedback.spec.js"
+			],
+			[
+				"missionrun",
+				"components/mission/MissionRunFeedback/MissionRunFeedback.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
